@@ -1,4 +1,11 @@
-# 302.AI API 集成助手
+<p align="center"><a href="https://302.ai/" target="blank"><img src="banner.png" /></a></p >
+
+<h1 align="center">
+<span>
+    # 302.AI API 集成Skill
+</span>
+</h1>
+
 
 > 🚀 **一键集成 1400+ AI API 到你的代码中** - 最强大的 Claude Code 技能，无缝对接 302.AI API
 
