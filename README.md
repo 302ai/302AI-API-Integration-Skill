@@ -48,7 +48,7 @@ A powerful Claude Code skill that **automatically** searches through 302.AI's ma
 Simply share this GitHub URL with Claude Code:
 
 ```
-https://github.com/302ai/302AI-API-Integration-Skill
+Install this skill: https://github.com/302ai/302AI-API-Integration-Skill
 ```
 
 Claude Code will automatically install the skill for you!
