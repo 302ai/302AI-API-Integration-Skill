@@ -404,7 +404,7 @@ If you encounter timeout errors:
 - **API Category Index**: `references/api_categories.md`
 - **Integration Code Templates**: `references/integration_examples.md`
 - **Official Documentation**: https://doc.302.ai/
-- **API List**: https://s.apifox.cn/apidoc/docs-site/4012774/llms.txt
+- **API List**: https://doc.302.ai/llms.txt
 
 ## Usage Examples
 
