@@ -12,7 +12,7 @@ import requests
 from typing import List, Dict, Optional
 
 # 302.AI API 列表 URL
-LLMS_TXT_URL = "https://s.apifox.cn/apidoc/docs-site/4012774/llms.txt"
+LLMS_TXT_URL = "https://doc.302.ai/llms.txt"
 
 
 def fetch_llms_txt(url: str = LLMS_TXT_URL) -> str:
